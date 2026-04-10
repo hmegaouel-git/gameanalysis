@@ -1,0 +1,132 @@
+Timeline,Start time,Duration,Row,Instance number,<flag>Nouveau drapeau,Adversaire,Contexte,Date,Event,GameTime,HALF TIME,Half,Journée,Lieu,MINUTE,Pass,Period,Player,Pourcentage,Qualite,Score final,Set Play Phase,TIME PERIOD,Team,Type action,Zone,🔸 [OP] Zonal Defence,🔸[OP] --> 🔹[IP],🔸[OP] Box Defence,🔸[OP] Def Restart Phase,🔸[OP] Zonal Defence,🔹[IP] Build/Progression Phase,🔹[IP] Final Third Phase,🔹[IP] Restart Phase,🔹[IP]--> 🔸[OP],Ungrouped,Notes,Flags
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,21.060113402777773,"[OP1c] GK Restarts (HB, retain possession-)✅",0,,,,,,00:00:00,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,12.850065531794222,"[OP3b] Mid Block(game plan, diag R->L)✅",0,,,,,,00:00:18,,,,,,,1,,,,,,,,,,Diagonal Pass,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,20.293689348288368,"Attacking Free Kick(R, DZ, flip the pressure?)🚧",0,,,,,,00:00:33,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,27.20765440106132,"[IP3a] Build (3+2, game plan, IB LCB, 2nd ball)✅",0,,,,,,00:00:50,,,,,,,1,,,,,,,,,,,,,,,In-Behind,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,25.595723524416826,"[OP1c] GK Restarts (HB, zonal defence, ball rentention)⚠️",0,,,,,,00:01:22,,,,,,,1,,,,,Long,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,17.240101492861385,Attacking Free Kick✅✅,0,,,,,,00:02:20,,,,,,,1,,,,,"Left, Att Half",,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,19.32014295186974,[OP4b] Box Defence (cross)🚧,0,,,,,,00:04:14,,,,,,,1,,,,,,,,,,,,Crosses Conceded,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,25.946113790469553,"[IP1b] GK Restarts Direct (OS, IB wingers)❌",0,,,,,,00:05:40,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,13.260092050736944,"[IP1a] GK Restarts(spare-man, 6)❌",0,,,,,,00:06:27,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,20.620132274348634,"[IP1b] GK Restarts Direct (OS, front3, 2nd ball)✅",0,,,,,,00:07:10,,,,,,,1,,,,,,,,,,,,,,,,,"OS: LONG, Front 3",,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,21.800179786564968,"[IP1a] GK Restarts(spare-man, 8)✅",0,,,,,,00:07:56,,,,,,,1,,,,,,,,,,,,,,,,,"Short, Spare Man (vMFM)",,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,21.890142616714343,"[IP3a] Build (3+2, IB 9)❌",0,,,,,,00:08:17,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,24.840159400871585,"[OP3a] High Block (MFM, 1st contact, ball retention)❌",0,,,,,,00:08:44,,,,,,,1,,,,,,,,,,Back 4 Line Management,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,14.550091446018882,Defending Free Kick🚧,0,,,,,Pass,00:09:41,,First Half,,,,"Free kick taken, Long ball, Chipped, Direct",1,Kyle Walker,,,,Right,,Burnley,,Center,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,25.810171294651695,Attacking Transition (Counter Attack)✅✅,0,,,,,,00:10:22,,,,,,,1,,,,,,,,,,,Counter Attack,,,,,,Restart Quckly,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,26.79633144870286,"[OP1c] GK Restarts (HB, duel lost, ball retention)❌",0,,,,,,00:11:05,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,16.41011644041862,[OP2a] High Press MFM(ball rentention)🚧,0,,,,,,00:11:28,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,16.55365644884455,[OP3b] Mid Block(zonal 4-4-2)✅,0,,,,,,00:11:54,,,,,,,1,,,,,,,,,,,,,,Organisation & Triggers,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,39.580251634119804,"[IP3a] Build (3+2, patterns?)❌",0,,,,,,"00:12:31, 00:12:52",,,,,,,"1, 1",,,,,,,,,,,,,,,"In-Behind, In-Behind",,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,14.690098445536933,"Defending Free Kick(goal, foul)⚠️",0,,,,,,00:13:51,,,,,,,1,,,,,Deep,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,25.00695835900001,"[IP3a] Build (3+2, no switch, positions?)❌",0,,,,,,00:14:30,,,,,,,1,,,,,,,,,,,,,,,,,,,,*,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,13.39001625191213,"[IP1c] GK Restarts Direct (HB, front3, 2nd ball)✅",0,,,,,,00:16:21,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,17.75010515483632,[IP4] Attack the Box(G'N'G)🚧,0,,,,,,00:16:22,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,31.710163667346933,"[OP2a] High Press MFM(duel won, 2nd ball)✅🔎",0,,,,,,00:17:04,,,,,,,1,,,,,,,,,,Diagonal Pass,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,34.4502301081186,"[IP3a] Build (3+2, random positions)🚧",0,,,,,,00:18:00,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,17.69009996459431,[IP4] Attack the Box(G'N'G)🚧,0,,,,,,00:18:33,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,22.810163674899513,"[IP3b] Attacking (4-3-3, LTRiangle)🚧",0,,,,,,00:19:26,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,27.250181364795935,[IP4] Attack the Box(cross)🚧,0,,,,,,00:19:21,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,9.260058516328627,[IP4] Attack the Box(cross)❌,0,,,,,,00:20:26,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,15.410078337584991,"[OP1b] GK Restarts (OS, ball retention)🚧",0,,,,,,00:20:57,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,17.674475816708537,[OP2a] High Press MFM✅,0,,,,,,00:21:08,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,16.19008625344327,Defensive Transition (Loss of Possession)✅,0,,,,,,00:21:27,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,33.300272766981834,[OP3b] Mid Block✅,0,,,,,,00:21:50,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,42.41025815608418,"[IP3b] Attacking (4-3-3, progressive-attacking phases)🚧",0,,,,,,00:22:38,,,,,,,1,,,,,,,,,,,,,,,Pin & Switch,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,16.860082914683744,Defensive Transition (Loss of Possession)✅,0,,,,,,00:23:06,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,27.700239191209903,[OP2a] High Press MFM(adaptation?)❌,0,,,,,,00:23:37,,,,,,,1,,,,,,,,,,"Organisation & Triggers, Back 4 Line Management",,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,25.610098143481537,[OP4a] Low Block(IB)✅⚠️,0,,,,,,00:24:18,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,71.9803080509721,"[IP3a] Build (3+2, Lots of runs, always on the move, shifting roles - to be painted)🚧🔎",0,,,,,,00:24:57,,,,,,,1,,,,,,,,,,,,,,,Pin & Switch,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,11.850053350340204,[IP4] Attack the Box(cross)❌,0,,,,,,00:26:42,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,25.070138383328185,"Attacking Throw In(R, HZ)🚧",0,,,,,,00:26:29,,,,,,,1,,,,,"Long, Right",,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,25.74012589355334,[OP1a] GK Restart MFM✅,0,,,,,,00:26:51,,,,,,,1,,,,,,,,,,,,,Quick Restart,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,27.680160323747486,[OP2a] High Press MFM(references? adaptation)❌,0,,,,,,00:27:21,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,20.180113091860903,[OP4a] Low Block(Zonal workflow)🚧,0,,,,,,00:27:44,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,23.840217260540157,[IP1a] GK Restarts(spare-man)✅,0,,,,,,00:28:25,,,,,,,1,,,,,,,,,,,,,,,,,"Short, Spare Man (vMFM)",,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,23.890115223922976,[IP4] Attack the Box(cross)🚧,0,,,,,,00:28:52,,,,,,,1,,,,,,,,,,,,,,,,"Diagonal Balls, Diagonal Balls",,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,18.13009937641732,Defensive Transition (Loss of Possession)🚧,0,,,,,,00:28:59,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,26.180175574403165,"[IP2a] OP GK Connected(3-1 with GK, next phase?)❌🔎",0,,,,,,00:29:40,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,19.370107907613146,"[OP4a] Low Block(L overload, cross)🚧",0,,,,,,00:30:12,,,,,,,1,,,,,,,,,,,,,,5-4-1,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,19.94012284240989,"Attacking Throw In(R, DZ, flip the pressure)🚧",0,,,,,,00:30:55,,,,,,,1,,,,,Right,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,91.49040628235525,[OP3b] Mid Block(1-4-4-2 ←→ 1-5-4-1)✅,0,,,,,,00:31:38,,,,,,,1,,,,,,,,,,,,,,Organisation & Triggers,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,10.440071023365363,Attacking Transition (Counter Attack)❌,0,,,,,,00:33:00,,,,,,,1,,,,,,,,,,,Counter Attack,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,10.40006096580828,[OP3b] Mid Block(LTriangle)✅,0,,,,,,00:33:12,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,19.653481530652698,[OP3b] Mid Block(RTriangle)✅,0,,,,,,00:33:51,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,23.0801313676302,[IP4] Attack the Box(2 crosses)❌,0,,,,,,00:34:14,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,20.600094484260353,"[IP2a] OP GK Connected(3-1 with GK, next phase?)❌🔎",0,,,,,,00:34:49,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,23.5,"Attacking Throw In(L, MZ, flip the pressure)✅",0,,,,,,00:35:24,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,29.490151799525393,[OP1c] GK Restarts (HB)✅,0,,,,,,00:36:07,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,24.650169185500545,"[IP2a] OP GK Connected(3-1 with GK, around, IB)✅🔎",0,,,,,,00:37:09,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,24.520092667843983,[OP1c] GK Restarts (HB)✅,0,,,,,,00:37:53,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,50.78024561803704,"[IP3b] Attacking (4-3-3, unclear structures and roles)🚧",0,,,,,,00:38:38,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,9.620037796201814,[IP4] Attack the Box(cross)❌,0,,,,,,00:39:21,,,,,,,1,,,,,,,,,,,,,,,,Diagonal Balls,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,46.29022035430853,"[OP3a] High Block (GK Connected, individual mistake)❌",0,,,,,,00:39:25,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,17.18013585839344,[OP4b] Box Defence (cross)✅,0,,,,,,00:39:52,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,21.70012955131051,"Attacking Throw In(R, MZ)✅",0,,,,,,00:40:34,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,60.25818600288403,"[IP3b] Attacking (4-3-3, LTriangle)❌",0,,,,,,00:40:59,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,13.920107898469723,[IP4] Attack the Box(cross)🚧,0,,,,,,00:41:22,,,,,,,1,,,,,,,,,,,,,,,,Crosses,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,27.490156384669262,[OP3b] Mid Block✅,0,,,,,,00:41:56,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,21.99014111922088,[IP2a] OP GK Connected❌,0,,,,,,00:42:42,,,,,,,1,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,53.590330076560804,[OP4a] Low Block(cross)❌❌,0,,,,,,00:43:58,,,,,,,1,,,,,,,,,,,,,,Side Overloads,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,21.5,"[IP3b] Build (4-3-3, LTriangle)❌",0,,Burnley,Contexte,20250823,,,MT 1,,Journée 2,Exterieur,105,,,,80%,-,0/2,,45+,,APlacee,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,39.31958629274959,[OP4a] Low Block(2 phases)❌❌❌⚽️,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,26.380202962448493,[OP2a] High Press MFM(v back4)✅,0,,,,,,00:00:12,,,,,,,2,,,,,"Deep, Right, Att Half",,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,20.18570286486556,Attacking Free Kick(opportunity)❌,0,,,,,,00:01:01,,,,,,,2,,,,,"Deep, Right, Att Half",,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,22.167840513483497,"[IP3b] Attacking (4-3-3, 2 phases)🚧",0,,,,,,00:01:31,,,,,,,2,,,,,,,,,,,Fast Attack,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,17.868034480176448,"Attacking Corner(R, delivery)❌",0,,,,,,00:02:12,,,,,,,2,,,,,Right,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,81.48585437561269,"[OP1c] GK Restarts (momentum shifted, multiple missed actions)❌",0,,,,,,00:02:49,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,35.12999731717673,[OP4a] Low Block(RTriangle)❌,0,,,,,,00:02:57,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,13.089924777494161,Attacking Transition (Counter Attack)❌,0,,,,,,00:03:35,,,,,,,2,,,,,,,,,,,Counter Attack,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,30.389946267320283,[OP4a] Low Block(LTriangle)❌,0,,,,,,00:03:39,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,19.709977749433165,"[IP1b] GK Restarts Direct (OS, front3, Offside)❌",0,,,,,,00:40:49,,,,,,,2,,,,,,,,,,,,,,,,,"OS: LONG, Front 3",,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,9.860082913858605,Defending Corner(L)✅,0,,,,,,00:43:05,,,,,,,2,,,,,Left,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,22.4541691431059,Defending Corner(L)✅,0,,,,,,00:43:32,,,,,,,2,,,,,Left,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,24.850128023162142,[OP2a] High Press MFM(Marking switches)🚧🔎,0,,,,,,00:43:54,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,33.75015544995449,[OP2a] High Press MFM(2 phases)✅,0,,,,,,"00:44:26, 00:43:54",,,,,,,"2, 2",,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,39.39924072920985,"[IP3a] Build (3+1, 6, IB)🚧",0,,,,,,00:45:24,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,31.169650480581367,[OP1a] GK Restart MFM✅,0,,,,,,00:34:55,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,25.0,[IP3b] Attacking (4-3-3)❌,0,,,,,,00:35:46,,,,,,,2,,,,,,,,,,,,,,,,Crosses,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,25.0,[IP4] Attack the Box(cross)❌,0,,,,,,00:35:46,,,,,,,2,,,,,,,,,,,,,,,,Crosses,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,42.018366879956375,Defensive Transition (Loss of Possession)❌,0,,,,,,00:35:55,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,36.16292587247244,[IP3b] Attacking (4-3-3)✅🔎,0,,,,,,00:36:34,,,,,,,2,,,,,,,,,,,,,,,In-Behind,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,19.99787323163946,Defensive Transition (Loss of Possession)✅,0,,,,,,00:36:51,,,,,,,2,,,,,,,,,,,,,,,,,,Counter Press,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,24.5,"[IP3b] Attacking (4-3-3, LTriangle)✅",0,,,,,,00:37:52,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,23.0,[IP4] Attack the Box(cross)❌,0,,,,,,00:37:52,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,21.753153177694912,Defensive Transition (Loss of Possession)✅,0,,,,,,00:37:59,,,,,,,2,,,,,,,,,,,,,,,,,,Counter Press,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,20.5,[IP4] Attack the Box(cross)❌,0,,,,,,00:38:26,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,18.44012284308701,Defensive Transition (Loss of Possession)✅,0,,,,,,00:38:27,,,,,,,2,,,,,,,,,,,Fast Attack,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,21.500118874716463,"[IP3b] Attacking (4-3-3, LTriangle)🚧",0,,,,,,00:30:20,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,25.07556073369051,Defensive Transition (Loss of Possession)✅,0,,,,,,00:30:22,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,25.730183219290666,"[IP3b] Attacking (4-3-3, L-RTriangles)✅",0,,,,,,00:31:50,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,12.650077731009333,[IP4] Attack the Box(eraly cross)❌,0,,,,,,00:32:02,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,15.059954900793855,[OP1a] GK Restart MFM✅,0,,,,,,00:32:11,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,22.17998818027172,[OP2a] High Press MFM✅,0,,,,,,00:32:54,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,49.16337101711633,"[IP3b] Build (4-3-3, tempo)❌🔎",0,,,,,,00:33:20,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,20.229177110005367,Defensive Transition (Loss of Possession)✅,0,,,,,,00:34:02,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,20.975736117011365,"[IP3b] Attacking (4-3-3, opprtunity)❌",0,,,,,,00:35:17,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,14.950089927207046,Defensive Transition (Loss of Possession)🚧,0,,,,,,00:35:23,,,,,,,2,,,,,,,,,,,,,,,,,,Counter Press,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,16.6691133267841,Defensive Transition (Loss of Possession)✅,0,,,,,,00:35:59,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,14.31008901502264,"[PI3a] Build (4-3-3, RTriangle)🚧",0,,,,,,00:36:17,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,29.14987693648709,Defensive Transition (Loss of Possession)❌🔎,0,,,,,,00:36:21,,,,,,,2,,,,,,,,,,,,,,,,,,Counter Press,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,27.700205765401734,"[IP3b] Attacking (4-3-3, RTRiangle)✅",0,,,,,,00:36:50,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,10.780074977324148,[IP4] Attack the Box(cross)🚧,0,,,,,,00:37:06,,,,,,,2,,,,,,,,,,,,,,,,Crosses,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,17.5,[IP4] Attack the Box(cross)❌,0,,,,,,00:38:30,,,,,,,2,,,,,,,,,,,,,,,,Diagonal Balls,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,28.99255034577982,Defensive Transition (Loss of Possession)🚧⚠️,0,,,,,,00:38:32,,,,,,,2,,,,,,,,,,,,,,,,,,Counter Press,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,31.180190811680404,"[IP3b] Attacking (4-3-3, LTRiangle)🚧",0,,,,,,00:39:03,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,37.96554941546492,"Attacking Corner(L, 3-men)✅",0,,,,,,00:20:00,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,19.17529094742258,[IP3a] Build (3-1-4-2)✅🔎,0,,,,,,00:20:48,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,19.5,[OP1a] GK Restart MFM✅,0,,,,,,00:21:05,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,10.753031124541849,[IP4] Attack the Box(G'N'G)🚧,0,,,,,,00:21:24,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,6.570033220207733,[OP1c] GK Restarts (HB)✅,0,,,,,,00:17:44,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,40.09897919242121,Attacking Free Kick(3 phases)✅,0,,,,,,00:18:36,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,25.728284777791487,[IP4] Attack the Box(2 crosses)✅,0,,,,,,00:18:52,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,20.485431105832504,[OP1c] GK Restarts (HB)✅,0,,,,,,00:15:10,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,11.789938445294865,Defensive Transition (Loss of Possession)✅,0,,,,,,00:16:17,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,19.88071053920794,Defensive Transition (Loss of Possession)❌❌❌⚽️,0,,,,,,00:16:35,,,,,,,2,,,,,,,,,,,,,,,,,,Counter Press,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,18.28456110120169,Defensive Transition (Loss of Possession)✅,0,,,,,,00:12:23,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,27.701750193959015,"[IP3b] Attacking (4-3-3, RTRiangle)🚧",0,,,,,,00:13:32,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,10.370256529285143,"[OP1c] GK Restarts (HB, foul)❌",0,,,,,,00:14:08,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,17.087140328048008,"[IP3b] Attacking (4-3-3, LTriangle)🚧",0,,,,,,00:15:52,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,16.0,[IP4] Attack the Box(cross)🚧,0,,,,,,00:18:19,,,,,,,2,,,,,,,,,,,,,,,,Crosses,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,33.04678672218142,[OP1c] GK Restarts (HB)❌❌,0,,,,,,00:18:52,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau
+250823_Burnley_Sunderland_ANALYST_1ANGLE,0.0,24.30357023203942,[OP1c] GK Restarts (HB)✅,0,,,,,,00:21:26,,,,,,,2,,,,,,,,,,,,,,,,,,,,,Nouveau drapeau

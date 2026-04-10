@@ -1,0 +1,144 @@
+Timeline,Start time,Duration,Row,Instance number,<flag>.,Adversaire,Contexte,Corner Taken,Date,Event,HALF TIME,Half,Journée,Lieu,MINUTE,Pass,Player,Pourcentage,Qualite,Score final,TIME PERIOD,Team,Type action,Zone,✅,❌,🔸[DSP],🔸[OP] --&gt; 🔹[IP],🔸[OP] Box Defence,🔸[OP] Restart Phase,🔸[OP] Zonal Defence,🔹[IP] Attack the Box,🔹[IP] Progression Phase,🔹[IP] Restart Phase,🔹[IP]--&gt; 🔸[OP],🔹[OSP],🚧,Ungrouped,Notes,Flags
+xml,0.0,24.529847018235003,🔹[OSP] Kick-off✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,✅,,.
+xml,0.0,33.76294552398417,"🔹[IP3a] Progression(pressing challenges, IB)🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,11.39007254960319,🔸[OP2] High Press(4-4-2 shape)✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,28.47995307256238,"🔹[OSP] Attacking Throw In(R, long)🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Right, Att 1/3, Long",,,,.
+xml,0.0,18.046948825113418,"🔹[OSP] Attacking Throw In(L, long)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Left, Att 1/3, Long",,,,.
+xml,0.0,37.795000000000016,🔸🔹Defensive Transition(counter-pressing)🚧,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Counter Press,,,,,.
+xml,0.0,15.460076808390056,🔸[DSP] Defending Throw In(4-4-2)❌🔎,0,,,,,,,,,,,,,,,,,,,,,,,"Left, Def 1/3",,,,,,,,,,,,,.
+xml,0.0,24.84699999999998,🔹🔸Offensive transition(counter-attack)🚧,0,,,,,,,,,,,,,,,,,,,,,,,,Counter Attack,,,,,,,,,,,,.
+xml,0.0,30.047947012471695,"🔸[OP4] Low Block(RTriangle, box unit)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,Diagonal Pass,,,,,,,,,.
+xml,0.0,13.292839434886673,🔸[OP3b] Mid Block(depth management)🚧🔎,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,14.16890889314061,"🔹[OSP] Attacking Throw In(R, DZ, flip the pressure)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Right, Def 1/3",,,,.
+xml,0.0,14.41997998299314,"🔹[OSP] Attacking Free Kick(deep, off side)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,33.3429583345511,"🔸[OP2] High Press(MFM, long, cheap turnover, back in shape)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,9.006914074974247,🔸[OP4] Low Block(depth management)✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,31.390226431044994,"🔹[IP1b] GK Restart(through, cheap turnover in low zone)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,48.14496255093184,"🔸[OP4] Low Block(2 crosses, solid, except last defensive attitude )🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,Crosses Conceded,,,,,,,,,,,.
+xml,0.0,9.72886527097603,"🔸[DSP] Defending Free Kick(direct, wall attitudes?)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,11.580957640306224,"🔸[DSP] Defending Throw In(L, long)✅",0,,,,,,,,,,,,,,,,,,,,,,,"Left, Def 1/3, Long",,,,,,,,,,,,,.
+xml,0.0,27.0,"🔸[DSP] Defending Throw In(L, 4-4-2, High MFM Press, long)✅",0,,,,,,,,,,,,,,,,,,,,,,,"Left, Def 1/3",,,,,,,,,,,,,.
+xml,0.0,16.0,"🔸[DSP] Defending Throw In(L, organisation?, through)❌🔎",0,,,,,,,,,,,,,,,,,,,,,,,"Left, Def 1/3",,,,,,,,,,,,,.
+xml,0.0,16.479962199546435,"🔸[DSP] Defending Throw In(R, MZ, High MFM press, foul)🚧",0,,,,,,,,,,,,,,,,,,,,,,,"Right, Mid 1/3",,,,,,,,,,,,,.
+xml,0.0,24.477974707883504,"🔸[OP3b] Mid Block(pressing triggers, mid regain)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,30.5,"🔹[IP3a] Progression(pressing challenges, spare man, individual behaviors)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,19.700102097505578,"🔹[OSP] Attacking Throw In(L, MZ, 2nd ball)🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Left, Mid 1/3",,,,.
+xml,0.0,32.748970748119746,"🔹[IP3b] Progression(IB, 2nd ball, opportunity)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pin &amp; Switch,,,,,,,.
+xml,0.0,12.769950924036266,🔸🔹Defensive Transition(counter-pressing)✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Counter Press, Counter Press",,,,,.
+xml,0.0,17.989730270691553,🔸[OP4] Low Block(LTriangle)✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,16.399960382653035,🔹🔸Offensive transition(keep the ball)✅,0,,,,,,,,,,,,,,,,,,,,,,,,Retain Poss,,,,,,,,,,,,.
+xml,0.0,21.497948202629004,🔹[IP3a] Progression(low turnover under pressure)❌,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,10.35005944004206,🔸🔹Defensive Transition(counter-attack)⚠️,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,22.32019159256356,🔹[IP1b] GK Restart(around)🚧,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,16.975963115079367,"🔹[OSP] Attacking Throw In(R, MZ, cheap turnover)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Right, Def 1/3",,,,.
+xml,0.0,15.418866545262517,"🔸[OP4] Low Block(RTriangle, box unit, cheap turnover)🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,11.250077733588341,"🔸🔹Defensive Transition(cheap turnover, shot conceded)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,33.41500000000019,"🔹[IP1a] GK Restart(HBlock, 2nd ball)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compact Shape: LONG,,,,,,.
+xml,0.0,50.43900000000008,"🔹[IP3a-b] Progression(pressing challenges, IB)🚧🔎",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,19.23799999999983,"🔸[OP2] High Press(MFM, long)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,20.160084477040755,"🔹[IP1b] GK Restart(spare man, LB off the shoulder of the winger)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,12.680006438926512,🔹[IP4] Attacking Phase(IB)❌,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,41.15995794501123,"🔸[OP1b] GK Restart(MFM press, long, cheap turnover, 2nd ball)⚠️",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,31.630148136337993,"🔹[IP1a] GK Restart(HBlock, 2nd balls, opportunity)✅✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compact Shape: LONG,,,,,,.
+xml,0.0,13.860058520408302,"🔸[OP1a] GK Restart(HBlock, block)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,Direct (HB),,,,,,,,,,.
+xml,0.0,8.630036886337848,"🔹[OSP] Attacking Throw In(R, MZ)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Right, Mid 1/3",,,,.
+xml,0.0,21.33096586026113,"🔹[OSP] Attacking Throw In(R, MZ, turnover)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Right, Mid 1/3",,,,.
+xml,0.0,16.249879700963902,🔹[IP4] Attacking Phase(cross rushed)❌,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,9.980058218537579,🔸🔹Defensive Transition(counter-press)✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,21.60012345379846,"🔸[OP2] High Press(long, 1st contact, retaining possession issue)🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,17.330094791666852,"🔸[OP4] Low Block(LTRiangle, shot)🚧",0,,"Arsenal, Arsenal, Arsenal","Contexte, Contexte, Contexte",,"20251108, 20251108, 20251108",,"MT 0, MT 0, MT 0",,"Journée 11, Journée 11, Journée 11","Domicile, Domicile, Domicile","116, 116, 116",,,"80%, 80%, 120%","-, -, +","2/2, 2/2, 2/2","110 - 120, 110 - 120, 110 - 120",,"DPlacee, DPlacee, DPlacee",,,,,,,,,,,,,,,,,.
+xml,0.0,26.975959784308543,"🔹[IP1b] GK Restart(around, cheap turnover)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,23.64996958191614,🔸🔹Defensive Transition(counter-attack)✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,14.52996840561218,🔹🔸Offensive transition(cheap turnover)❌,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,17.784935074520035,🔸[OP4] Low Block(LTriangle)✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,16.05998692460298,🔹🔸Offensive transition(foul obtained)✅,0,,,,,,,,,,,,,,,,,,,,,,,,Counter Attack,,,,,,,,,,,,.
+xml,0.0,31.0,🔹[OSP] Attacking Free Kick✅✅⚽️,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,17.54979166666635,🔸[DSP] Kick-off🚧,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,🚧,,.
+xml,0.0,86.69892230422374,🔸[OP4] Low Block(compactness)✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,39.92192867488711,🔸[OP4] Low Block(compactness)✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,29.391974106903945,"🔸[OP4] Low Block(RTriangle, cross)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,19.300958551200893,"🔸[DSP] Defending Throw In(R, long)✅",0,,,,,,,,,,,,,,,,,,,,,,,"Right, Def 1/3, Long",,,,,,,,,,,,,.
+xml,0.0,29.972954579081488,"🔹[IP1a] GK Restart(HBlock, 2nd ball)🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compact Shape: LONG,,,,,,.
+xml,0.0,12.770904896542106,"🔹[IP1a] GK Restart(HBlock, 2nd ball)🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compact Shape: LONG,,,,,,.
+xml,0.0,20.529986611394634,"🔹[OSP] Attacking Throw In(L, MZ)🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Left, Mid 1/3",,,,.
+xml,0.0,34.83898543367377,"🔹[IP1b] GK Restart(passivity, turnover under pressure)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,25.690165522959433,🔸[OP3b] Mid Block(4-4-2)✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,10.770080500283711,🔹🔸Offensive transition(quick turnover)❌,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,46.374862922335524,🔸[OP4] Low Block(RTriangle)✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,12.349978673469195,"🔹[OSP] Attacking Throw In(R, DZ, flip the pressure)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Right, Def 1/3",,,,.
+xml,0.0,26.3709762471658,"🔸[OP2] High Press(long, 1st/2nd ball lost, foul)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,21.283964645691867,🔸[DSP] Defending Free Kick✅,0,,,,,,Pass,,First Half,,,,"Free kick taken, Chipped, Direct",Declan Rice,,,,,Arsenal,,Center,,,Left,,,,,,,,,,,,,.
+xml,0.0,21.014000000000124,🔸[DSP] Defending Throw In(2 phases)❌❌,0,,,,,,,,,,,,,,,,,,,,,,,"Left, Def 1/3",,,,,,,,,,,,,.
+xml,0.0,12.040064924886792,"🔹[IP1a] GK Restart(HBlock, foul 2nd ball)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compact Shape: LONG,,,,,,.
+xml,0.0,65.4608445408162,"🔸[OP4] Low Block(RTriangle, 1 cross, 2nd phase)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,36.03296221767869,"🔸[OP4] Low Block(LTriangle, on the edge)❌⚠️",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,17.05009448505507,🔸[OP4] Low Block(n-behind run well controlled)✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,23.15997470946695,"🔹[IP1a] GK Restart(HBlock, 2nd ball)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compact Shape: LONG,,,,,,.
+xml,0.0,46.92099999999982,"🔹[IP3b] Progression(RTRiangle, LTRiangle, cross)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,21.330956102258824,🔹[OSP] Attacking Corner(2nd phase)✅✅,0,,,,In-swinger,,Pass,,First Half,,,,"Corner taken, Cross, Chipped",Granit Xhaka,,,,,Sunderland,,Center,,,,,,,,,,,,Right,,,,.
+xml,0.0,17.37010332482987,"🔸[OP1a] GK Restart(OS, short, MFM issue)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,24.629878757312326,🔸[DSP] Kick-off❌,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,❌,,.
+xml,0.0,29.899973177090033,"🔸[DSP] Defending Throw In(L, long)❌❌",0,,,,,,,,,,,,,,,,,,,,,,,"Left, Def 1/3, Long",,,,,,,,,,,,,.
+xml,0.0,58.769858260667206,"🔸[OP4] Low Block(compactness, late cross inaccurate)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,31.5,"🔹[IP1a] GK Restart(OS, long Front3)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"OS: LONG, Front 3",,,,,,.
+xml,0.0,53.32996037806424,"🔹[OSP] Attacking Corner(delivery, 2nd phase)❌⚠️",0,,,,Straight,,Pass,,Second Half,,,,"Cross, Corner taken, Long ball, Chipped",Enzo Le Fée,,,,,Sunderland,,Center,,,,,,,,,,,,Left,,,,.
+xml,0.0,28.0,"🔸🔹Defensive Transition(post set-play miss, cheap turnovers)❌❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Regain Zonal Defence,,,,,.
+xml,0.0,27.347986638322254,"🔹[IP1b] GK Restart(OS, long, 2nd ball)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,34.863937210559016,"🔹[IP3b] Progression(positive first step under pressure, IB attempt rushed after)🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,19.9669561876417,"🔸[OP4] Low Block(LTriangle, cross unit)🚧⚠️",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,25.380979045945423,🔸[OP4] Low Block(RTriangle out of position)❌❌,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,29.25998049177997,"🔹[IP1a] GK Restart(HBlock, 2nd ball)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compact Shape: LONG,,,,,,.
+xml,0.0,15.34095459467153,"🔹[IP2a] Low Build-up(long, 2nd ball)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,14.580941506519594,"🔸[OP4] Low Block(LTriangle, under-lap, cross)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,46.18695188188576,"🔹[IP1b] GK Restart(cheap low turnover, goal conceded)❌⚠️",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,16.116970464852784,"🔸🔹Defensive Transition(cheap turnover, counter-attack)❌❌🏈",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,34.94991465986459,🔹[OSP] Kick-off(2 phases)❌,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,❌,,.
+xml,0.0,19.820924106560597,"🔸[OP4] Low Block(RTRiangle, on the edge)🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,39.46597043934253,🔸[OP4] Low Block(L-RTriangles)✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,15.930073452381293,"🔹[IP1a] GK Restart(HBlock, 2nd ball)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compact Shape: LONG,,,,,,.
+xml,0.0,11.63187411610852,"🔸[OP4] Low Block(RTriangle, run across from the blindside)❌❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,25.560976225907325,"🔹[IP1a] GK Restart(HBlock, 2nd ball)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compact Shape: LONG,,,,,,.
+xml,0.0,7.710038701814483,"🔹[OSP] Attacking Throw In(R, MZ)❌",0,,,,,,,,,,,,,,,,,,,,,,,"Mid 1/3, Right",,,,,,,,,,,,,.
+xml,0.0,27.039978358843655,"🔸[OP2] High Press(long, 1st contact+, 2nd ball)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,46.86399999999958,"🔸[OP4] Low Block(RTriangle, on the edge)🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,20.5,"🔸🔹Defensive Transition(turnover, cross)❌❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,30.020158219955192,"🔹[IP1b] GK Restart(around, switch)✅⭐️",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,74.86999999999989,"🔹[IP3b] Progression(R-LTriangles, shot)✅⭐️",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,25.541000000000167,🔸[OP4] Low Block(RTriangle)🚧,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,9.183931733796271,"🔹[OSP] Attacking Throw In(R, MZ)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Right, Mid 1/3",,,,.
+xml,0.0,45.75190980539719,"🔸[OP4] Low Block(RTRiangle, cross, 2nd ball)❌❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,18.920109429493095,🔸[DSP] Defending Free Kick🚧,0,,,,,,Pass,,Second Half,,,,"Free kick taken, Cross, Chipped, Direct",Declan Rice,,,,,Arsenal,,Center,,,,,,,,,,,,,,,,.
+xml,0.0,21.42296068027281,"🔹[IP1a] GK Restart(HBlock, 2nd ball)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compact Shape: LONG,,,,,,.
+xml,0.0,21.122976231576104,"🔹[OSP] Attacking Throw In(R, long, 2nd phase)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Right, Att 1/3, Long",,,,.
+xml,0.0,8.976878069727718,"🔹[OSP] Attacking Free Kick(R, foul)🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Right,,,,.
+xml,0.0,29.28993080073724,🔹[OSP] Attacking Free Kick(DZ)❌,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,25.15290093884596,🔸🔹Defensive Transition(on the edge)🚧,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compact Shape: LONG,,,,,,.
+xml,0.0,28.077000000000226,"🔹[IP1b] GK Restart(long, foul)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,42.73594392715495,"🔸[DSP] Defending Free Kick(silly foul, 3rd phase, shot)❌❌🏈",0,,,,,,,,,,,,,,,,,,,,,,,Left,,,,,,,,,,,,,.
+xml,0.0,23.47998048894624,🔹[OSP] Kick-off🚧,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,🚧,,.
+xml,0.0,15.0429442184668,"🔹[IP1a] GK Restart(HBlock, 2nd ball)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compact Shape: LONG,,,,,,.
+xml,0.0,46.78093111819726,🔸[OP3b] Mid Block(efficient press→442)✅⭐️,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,18.470081998973,"🔹[OSP] Attacking Throw In(R, MZ, foul)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Right, Mid 1/3",,,,.
+xml,0.0,18.16696830640649,"🔹[OSP] Attacking Free Kick(R, 2nd ball)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,13.990080171485715,🔹[OSP] Attacking Throw In(L)✅✅,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Left, Att 1/3, Long",,,,.
+xml,0.0,19.840110638611804,"🔸[OP1a] GK Restart(HBlock, foul?)🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,,Direct (HB),,,,,,,,,,.
+xml,0.0,24.857967716608982,"🔹🔸Offensive transition(counter-attack, IB)✅",0,,,,,,,,,,,,,,,,,,,,,,,,Counter Attack,,,,,,,,,,,,.
+xml,0.0,45.909999999999854,"🔹[IP4] Attacking Phase(RSide, IB)✅✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Crosses,,,,,,,,.
+xml,0.0,28.57294604110666,"🔸[OP1a] GK Restart(HBlock, 2nd ball, 8"" all-in)✅⭐️",0,,,,,,,,,,,,,,,,,,,,,,,,,,Direct (HB),,,,,,,,,,.
+xml,0.0,43.5,"🔹[IP4] Attacking Phase(LSide, cross)🚧",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,14.819766519274708,"🔹[IP4] Attacking Phase(LSide, cross)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,23.103943623336818,"🔹[OSP] Attacking Throw In(L, long)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Left, Att 1/3, Long",,,,.
+xml,0.0,29.615999999999985,🔸🔹Defensive Transition(counter-attack)✅⭐️,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,45.22900000000027,"🔹[IP3b] Progression(distamce/time gap,  turnover under pressure)❌🔎",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,19.47007895221759,"🔹[IP1a] GK Restart(HBlock, 2nd ball, foul)✅",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compact Shape: LONG,,,,,,.
+xml,0.0,12.15005028628093,🔹[OSP] Attacking Free Kick(2-men)🚧,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,21.39095061887292,"🔸[OP1a] GK Restart(HBlock, foul)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,Direct (HB),,,,,,,,,,.
+xml,0.0,8.600106643001709,🔹[IP2a] Low Build-up(cheap low turnover)❌,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,19.670107900590665,"🔹[IP1b] GK Restart(around, switch)✅⭐️",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,21.330100893183044,🔹[IP4] Attacking Phase(LSide cross)🚧,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Crosses,,,,,,,,.
+xml,0.0,65.28996284722234,🔹[IP4] Attacking Phase(3 crosses)✅✅⚽️,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Crosses,,,,,,,,.
+xml,0.0,19.1899999999996,🔸[DSP] Kick-off🚧,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,❌,,.
+xml,0.0,19.023860421354584,"🔸[OP4] Low Block(box unit, cross far post, structure??)❌❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+xml,0.0,33.90494910109919,"🔸[DSP] Defending Corner(L, far post)🚧",0,,,,In-swinger,,Pass,,Second Half,,,,"Long ball, Cross, Corner taken, Chipped",Bukayo Saka,,,,,Arsenal,,Center,,,Left,,,,,,,,,,,,,.
+xml,0.0,17.490046639396496,"🔹[OSP] Attacking Throw In(R, MZ, foul)❌",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Right, Mid 1/3",,,,.
+xml,0.0,14.64995582341271,🔸[OP4] Low Block(cross)🚧,0,,,,,,,,,,,,,,,,,,,,,,,,,Crosses Conceded,,,,,,,,,,,.
