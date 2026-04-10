@@ -1,0 +1,9 @@
+phase,failures,recover%,spiral%,neutral%,goal_against_within3%,top_next_phases
+IP1,187,48.7,34.2,17.1,0.0,"Other(121), OP4(90), IP1(69), OP2(48)"
+IP2,99,51.5,34.3,14.1,1.0,"Other(68), OP4(39), IP1(37), OP2(30)"
+IP3,107,46.7,29.0,24.3,0.9,"IP3(50), Other(47), DefTrans(44), OP3(31)"
+IP4,57,63.2,21.1,15.8,1.8,"Other(36), DefTrans(28), OP1(14), OP2(14)"
+IP5,4,50.0,25.0,25.0,0.0,"OP3(3), DefTrans(2), OffTrans(2), OP1(1)"
+OP2,83,44.6,45.8,9.6,1.2,"IP1(51), Other(46), OP4(41), OP3(30)"
+OP3,87,50.6,40.2,9.2,0.0,"Other(69), IP1(39), OP4(26), OP3(19)"
+OP4,128,45.3,39.8,14.8,1.6,"Other(112), IP1(68), OP4(58), OP2(25)"
